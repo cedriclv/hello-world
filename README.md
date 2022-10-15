@@ -1,2 +1,2 @@
 # hello-world
-repo for training on GitHub
+## Currently learning to code in Wild Code School
